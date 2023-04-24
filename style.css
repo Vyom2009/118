@@ -1,0 +1,25 @@
+body{
+     background-color:yellow;
+     color:rgb(26, 134, 170);
+}
+canvas{
+     margin-top: 140px;
+}
+#span1{
+font-size: 40px;
+margin-right:900px;
+}
+#span2{
+    font-size: 40px;
+    margin-left:900px;
+    }
+    #sketchtbd{
+     font-size: 40px;
+    }
+    #ursketch{
+     font-size: 40px;
+    }
+    #accuracy{
+     font-size: 40px;
+    }
+    
